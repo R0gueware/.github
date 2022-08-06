@@ -11,4 +11,4 @@ Rogue exists for 3 reasons:
 when those reasons are not observable anymore, Rogue will be disconfigured.
 
 
-[^1]: All software that makes you become (3).
+[^1]: All software that makes you (3).
