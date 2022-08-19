@@ -1,7 +1,5 @@
 <h2 align="center"> Rogue Public Profile </h2>
 
-<hr>
-
 Rogue exists for 3 goals:
 
 1. To decentralise power.
