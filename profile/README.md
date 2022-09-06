@@ -1,4 +1,4 @@
-<h2 align="center"> Rogue Public Profile </h2>
+<h2 align="center"> :secret: <br> Rogue <br> Public Profile </h2>
 
 Rogue exists for 3 goals:
 
